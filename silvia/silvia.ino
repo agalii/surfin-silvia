@@ -1,7 +1,12 @@
+/* 
+first draft for a temperature control device
+on arduino micro board
 
+created 2014
+by Daniel & Lisa
 
-
-
+This code is published under GPL v2
+*/
 
 const int LedPins[5] = {2, 3, 4, 5, 6};
 const int RelaisPin  = 11;
